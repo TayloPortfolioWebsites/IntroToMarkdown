@@ -42,3 +42,7 @@ This is an example of *text with an asterisk*. When we don't want it to be itali
 
 ---
 
+<!-- BLOCKQUOTE RULE -->
+> We us the greater than symbol to display a block of text as a quote with a background and line on the left side.
+
+> *"You don't have to be great to start, but you need to start to be great."* __-Unknown Author__
