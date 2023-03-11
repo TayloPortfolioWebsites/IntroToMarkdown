@@ -113,3 +113,19 @@ __NOTE__: We can add a baloon title description to our link by using double quot
 **NOTE**: *__Backtics__ will allow us to show the code block or the paragraph tags in this example. It is located below the tilde character and on top of the tab key*
 
 `<p> This is a paragraph tag with an inline code block example opening and closing tags </p>`
+
+---
+
+<!-- IMAGE RULE -->
+
+![This is an image](https://i.redd.it/scb530bd10y11.png)
+
+---
+
+<!-- GITHUB FLAVOR SET OF CODE BLOCK -->
+
+```bash
+npm install
+
+npm start
+```
