@@ -153,3 +153,14 @@ public static int Sum(int num1, int num2)
  }
 ```
 
+---
+
+<!-- TABLE RULES -->
+
+| Name | Nickname | Email |
+|------|----------|-------|
+|Tiffany|Tiff     |hazeltiffany.taylo@gmail.com|
+|Steven |Ven      |stevenjohnson@gmail.com|
+|Clark  |CK       |clarktaylo@gmail.com|
+
+---
