@@ -46,3 +46,10 @@ This is an example of *text with an asterisk*. When we don't want it to be itali
 > We us the greater than symbol to display a block of text as a quote with a background and line on the left side.
 
 > *"You don't have to be great to start, but you need to start to be great."* __-Unknown Author__
+
+---
+
+<!-- LINKS RULE -->
+**NOTE**: We would want to put the link description inside of square brackets and the link to the resouce inside of two open and close parenthesis.
+
+[MyFacebookPage](http://www.facebook.com/imhazeltaylo)
