@@ -53,3 +53,7 @@ This is an example of *text with an asterisk*. When we don't want it to be itali
 **NOTE**: We would want to put the link description inside of square brackets and the link to the resouce inside of two open and close parenthesis.
 
 [MyFacebookPage](http://www.facebook.com/imhazeltaylo)
+
+__NOTE__: We can add a baloon title description to our link by using double quotes after the link to the resource.
+
+[MyFacebookPage](http://www.facebook.com/imhazeltaylo "This is my FB Page")
