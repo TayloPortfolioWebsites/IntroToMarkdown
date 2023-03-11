@@ -37,3 +37,8 @@ Another way to create horizontal rules is by using three underscores.
 
 ___
 
+<!-- ESCAPE CHARACTER RULES USING BACKSLASH -->
+This is an example of *text with an asterisk*. When we don't want it to be italicized, we want to use the backslash \ to escape the rule of using an opening \*asterisk* and closing \*asterisk* to enclose the text content. 
+
+---
+
