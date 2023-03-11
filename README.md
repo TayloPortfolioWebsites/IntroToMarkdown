@@ -57,3 +57,54 @@ This is an example of *text with an asterisk*. When we don't want it to be itali
 __NOTE__: We can add a baloon title description to our link by using double quotes after the link to the resource.
 
 [MyFacebookPage](http://www.facebook.com/imhazeltaylo "This is my FB Page")
+
+---
+
+<!-- LIST ITEM RULES -->
+
+<!-- Unordered List -->
+* Item 1 - this is our list item 1
+  * This is our list item 1 child item 1
+  * This is our list item 1 child item 2
+* Item 2 - this is our list item 2
+  * This is our list item 2 child item 1
+  * This is our list item 2 child item 2
+* Item 3 - this is our list item 3
+  * This is our list item 3 child item 1
+  * This is our list item 3 child item 2
+* Item 4 - this is our list item 4
+  * This is our list item 4 child item 1
+  * This is our list item 4 child item 2
+* Item 5 - this is our list item 5
+  * This is our list item 5 child item 1
+  * This is our list item 5 child item 2
+
+<!-- Ordered List -->
+1. Item 1 - this is our list item 1
+
+     1.1. This is our list item 1 child item 1
+     
+     3.2. This is our list item 1 child item 2
+2. Item 1 - this is our list item 1
+
+     2.1. This is our list item 2 child item 1
+     
+     4.2. This is our list item 2 child item 2
+3. Item 3 - this is our list item 3
+
+     3.1. This is our list item 3 child item 1
+     
+     5.2. This is our list item 3 child item 2
+4. Item 4 - this is our list item 4
+
+     4.1. This is our list item 4 child item 1
+     
+     6.2. This is our list item 4 child item 2
+5. Item 5 - this is our list item 5
+
+     5.1. This is our list item 5 child item 1
+     
+     7.2. This is our list item 5 child item 2
+
+---
+
